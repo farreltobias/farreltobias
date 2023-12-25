@@ -4,6 +4,7 @@ My name is Farrel, I am a full stack developer at Let's, a company focused on te
 
 I am passionate about learning new and different things every day and embracing new challenges and adventures. I am currently pursuing a bachelor's degree in computer engineering at Universidade Tecnológica Federal do Paraná, where I apply my coding and problem-solving skills to various projects. I also have multiple certifications from Rocketseat and IMPA, and I speak English and Portuguese fluently. My goal is to keep expanding my knowledge and skills, and to contribute to the development of impactful and meaningful technologies.
 
+### **Check my portfolio: https://farrel.tech!**
 #### 🔭 I’m currently working on: **PIBCP's website**
 
 ### :rocket: &nbsp;My Skills:
